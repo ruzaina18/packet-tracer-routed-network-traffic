@@ -70,15 +70,6 @@ The Edge router routes traffic between these networks and provides connectivity 
 - Enterprise network segmentation
 - Packet Tracer Simulation Mode analysis
 
-## Evidence
-Add screenshots of:
-- The original network topology.
-- The ARP request and its broadcast destination MAC.
-- The reconfigured routed topology.
-- DHCP-renewed IP addresses.
-- The ARP request after network segmentation.
-- Successful connectivity tests.
-
 ## Conclusion
 This lab demonstrates how separating departments into different IPv4 networks limits unnecessary broadcast traffic and enables communication through a router. Network segmentation improves manageability and can support better security when combined with appropriate access-control policies.
 
